@@ -83,7 +83,7 @@ body{
   background-image: url("/images/bg-pattern-top-mobile.svg"), url("/images/bg-pattern-bottom-mobile.svg");
   background-repeat: no-repeat, no-repeat;
   background-position: top left , bottom right;
-  background-color: hsl(300, 24%, 96%);
+  background-color: white;
   font-family: 'League Spartan', sans-serif;
 }
 
@@ -217,7 +217,7 @@ h3{
   }
   
   main{
-    margin: 0;
+    margin: 1.5rem;
   }
   
   section{
